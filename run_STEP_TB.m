@@ -14,7 +14,7 @@
   close all
   clear all
 
-  MyName = 'Dewagtere_Annelien'; 
+  MyName = 'ZT'; 
       % use underscores, given name at the end
   Experiment = 'STEP'  % valid choices: 'VCO' 'PLL' 'XY' 'STEP' 'FSK'
   modelName = strcat(Experiment,'_TB'); % build modelname
